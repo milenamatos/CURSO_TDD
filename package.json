@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/milenamatos/CURSO_TDD/issues"
   },
-  "homepage": "https://github.com/milenamatos/CURSO_TDD#readme"
+  "homepage": "https://github.com/milenamatos/CURSO_TDD#readme",
+  "devDependencies": {
+    "git-commit-msg-linter": "^2.7.0"
+  }
 }
