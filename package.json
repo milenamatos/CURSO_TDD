@@ -4,7 +4,7 @@
   "description": "API em Node.js desenvolvida no curso de TDD da Udemy.",
   "main": "index.js",
   "scripts": {
-    "test": "jest --passWithNoTests",
+    "test": "jest --passWithNoTests --watch",
     "test:staged": "jest --passWithNoTests"
   },
   "repository": {
