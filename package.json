@@ -1,6 +1,6 @@
 {
   "name": "clean-node-api",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "API em Node.js desenvolvida no curso de TDD da Udemy.",
   "main": "index.js",
   "scripts": {
